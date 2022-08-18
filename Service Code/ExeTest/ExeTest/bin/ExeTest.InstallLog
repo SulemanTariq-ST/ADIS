@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\sulem\source\repos\ExeTest\ExeTest\bin\Debug\ExeTest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sulem\source\repos\ExeTest\ExeTest\bin\Debug\ExeTest.InstallLog
+   assemblypath = C:\Users\sulem\source\repos\ExeTest\ExeTest\bin\Debug\ExeTest.exe
+Installing service Service3...
+Service Service3 has been successfully installed.
+Creating EventLog source Service3 in log Application...
+Committing assembly 'C:\Users\sulem\source\repos\ExeTest\ExeTest\bin\Debug\ExeTest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sulem\source\repos\ExeTest\ExeTest\bin\Debug\ExeTest.InstallLog
+   assemblypath = C:\Users\sulem\source\repos\ExeTest\ExeTest\bin\Debug\ExeTest.exe

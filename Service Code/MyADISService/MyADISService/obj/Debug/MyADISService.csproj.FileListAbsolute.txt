@@ -1,0 +1,9 @@
+C:\Users\sulem\source\repos\MyADISService\MyADISService\bin\Debug\MyADISService.exe.config
+C:\Users\sulem\source\repos\MyADISService\MyADISService\bin\Debug\MyADISService.exe
+C:\Users\sulem\source\repos\MyADISService\MyADISService\bin\Debug\MyADISService.pdb
+C:\Users\sulem\source\repos\MyADISService\MyADISService\obj\Debug\MyADISService.ProjectInstaller.resources
+C:\Users\sulem\source\repos\MyADISService\MyADISService\obj\Debug\MyADISService.csproj.GenerateResource.cache
+C:\Users\sulem\source\repos\MyADISService\MyADISService\obj\Debug\MyADISService.csproj.CoreCompileInputs.cache
+C:\Users\sulem\source\repos\MyADISService\MyADISService\obj\Debug\MyADISService.exe
+C:\Users\sulem\source\repos\MyADISService\MyADISService\obj\Debug\MyADISService.pdb
+C:\Users\sulem\source\repos\MyADISService\MyADISService\obj\Debug\MyADISService.csproj.AssemblyReference.cache

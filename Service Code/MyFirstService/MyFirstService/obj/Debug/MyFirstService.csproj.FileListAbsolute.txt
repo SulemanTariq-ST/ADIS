@@ -1,0 +1,9 @@
+C:\Users\sulem\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe.config
+C:\Users\sulem\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+C:\Users\sulem\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.pdb
+C:\Users\sulem\source\repos\MyFirstService\MyFirstService\obj\Debug\MyFirstService.csproj.AssemblyReference.cache
+C:\Users\sulem\source\repos\MyFirstService\MyFirstService\obj\Debug\MyFirstService.ProjectInstaller.resources
+C:\Users\sulem\source\repos\MyFirstService\MyFirstService\obj\Debug\MyFirstService.csproj.GenerateResource.cache
+C:\Users\sulem\source\repos\MyFirstService\MyFirstService\obj\Debug\MyFirstService.csproj.CoreCompileInputs.cache
+C:\Users\sulem\source\repos\MyFirstService\MyFirstService\obj\Debug\MyFirstService.exe
+C:\Users\sulem\source\repos\MyFirstService\MyFirstService\obj\Debug\MyFirstService.pdb

@@ -1,0 +1,8 @@
+C:\Users\sulem\source\repos\ADISservice\ADISservice\bin\Debug\ADISservice.exe.config
+C:\Users\sulem\source\repos\ADISservice\ADISservice\bin\Debug\ADISservice.exe
+C:\Users\sulem\source\repos\ADISservice\ADISservice\bin\Debug\ADISservice.pdb
+C:\Users\sulem\source\repos\ADISservice\ADISservice\obj\Debug\ADISservice.ProjectInstaller.resources
+C:\Users\sulem\source\repos\ADISservice\ADISservice\obj\Debug\ADISservice.csproj.GenerateResource.cache
+C:\Users\sulem\source\repos\ADISservice\ADISservice\obj\Debug\ADISservice.csproj.CoreCompileInputs.cache
+C:\Users\sulem\source\repos\ADISservice\ADISservice\obj\Debug\ADISservice.exe
+C:\Users\sulem\source\repos\ADISservice\ADISservice\obj\Debug\ADISservice.pdb

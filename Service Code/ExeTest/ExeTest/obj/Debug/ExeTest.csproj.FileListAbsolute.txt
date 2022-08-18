@@ -1,0 +1,9 @@
+C:\Users\sulem\source\repos\ExeTest\ExeTest\bin\Debug\ExeTest.exe.config
+C:\Users\sulem\source\repos\ExeTest\ExeTest\bin\Debug\ExeTest.exe
+C:\Users\sulem\source\repos\ExeTest\ExeTest\bin\Debug\ExeTest.pdb
+C:\Users\sulem\source\repos\ExeTest\ExeTest\obj\Debug\ExeTest.ProjectInstaller.resources
+C:\Users\sulem\source\repos\ExeTest\ExeTest\obj\Debug\ExeTest.csproj.GenerateResource.cache
+C:\Users\sulem\source\repos\ExeTest\ExeTest\obj\Debug\ExeTest.csproj.CoreCompileInputs.cache
+C:\Users\sulem\source\repos\ExeTest\ExeTest\obj\Debug\ExeTest.exe
+C:\Users\sulem\source\repos\ExeTest\ExeTest\obj\Debug\ExeTest.pdb
+C:\Users\sulem\source\repos\ExeTest\ExeTest\obj\Debug\ExeTest.csproj.AssemblyReference.cache
